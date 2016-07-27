@@ -104,8 +104,8 @@
       <file leaf-file-name="user_test.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/models/user_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="306">
+              <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -412,12 +412,12 @@
       <option name="presentableId" value="Default" />
       <updated>1469480821169</updated>
       <workItem from="1469480822452" duration="10969000" />
-      <workItem from="1469550207086" duration="5541000" />
+      <workItem from="1469550207086" duration="5741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16510000" />
+    <option name="totallyTimeSpent" value="16710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="634" y="23" width="643" height="773" extended-state="0" />
@@ -768,8 +768,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/models/user_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
           <folding />
         </state>
       </provider>
