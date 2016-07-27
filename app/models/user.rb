@@ -1,6 +1,6 @@
 class User < ApplicationRecord
   # Ensuring email uniqueness by downcasing the email attribute
-  before_save { self.email = email.downcase }
+  before_save { email.downcase! }
 
   # https://www.railstutorial.org/book/modeling_users
   validates :name,  presence: true, length: { maximum: 50 }
