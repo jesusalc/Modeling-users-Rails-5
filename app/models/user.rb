@@ -22,5 +22,7 @@ class User < ApplicationRecord
   validates :email, presence: true, length: { maximum: 255 },
             format: { with: VALID_EMAIL_REGEX },
             uniqueness: { case_sensitive: false }
+  # Most of the secure password machinery will be implemented using a single Rails method
+  has_secure_password
 
 end
